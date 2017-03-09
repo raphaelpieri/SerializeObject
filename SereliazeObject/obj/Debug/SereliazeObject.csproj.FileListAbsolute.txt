@@ -1,0 +1,7 @@
+F:\DotNet\SereliazeObject\SereliazeObject\bin\Debug\SereliazeObject.dll
+F:\DotNet\SereliazeObject\SereliazeObject\bin\Debug\SereliazeObject.pdb
+F:\DotNet\SereliazeObject\SereliazeObject\bin\Debug\FluentValidator.dll
+F:\DotNet\SereliazeObject\SereliazeObject\bin\Debug\FluentValidator.pdb
+F:\DotNet\SereliazeObject\SereliazeObject\obj\Debug\SereliazeObject.csprojResolveAssemblyReference.cache
+F:\DotNet\SereliazeObject\SereliazeObject\obj\Debug\SereliazeObject.dll
+F:\DotNet\SereliazeObject\SereliazeObject\obj\Debug\SereliazeObject.pdb
